@@ -26,10 +26,12 @@ expected_results = [
     'jnq'
 ]
 
-""" 
-    This function is is using additional letter indexing
-"""
+
 def streakFinder(input_string : str) -> str:
+    """ 
+    This function is is using additional letter indexing
+    """
+
     alph_order = "abcdefghijklmnopqrstuvwxyz"
     result = ""
     streak = ""
@@ -88,11 +90,12 @@ def streakFinder(input_string : str) -> str:
 
     return result
    
-""" 
+def streakFinderV2(input_string : str) -> str:
+    """ 
     This function is is using in build python string properties where strings can be directly compared
     This approach save one while loop
-"""
-def streakFinderV2(input_string : str) -> str:
+    """
+
     alph_order = "abcdefghijklmnopqrstuvwxyz"
     result = ""
     streak = ""
