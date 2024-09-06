@@ -28,3 +28,9 @@ Using recursive function implementation to provide step by step solution to the 
 
 ### greatest_common_divisor.py
 Return greatest common divisior of two positive integers using iterative and recursive mentod
+
+### is_in_search.py
+Using recursive and bisection methods finds if given character is present if pre defined ordered string
+
+### polygon.py
+Sum the area and square of the perimeter of the regular polygon
