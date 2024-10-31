@@ -34,3 +34,6 @@ Using recursive and bisection methods finds if given character is present if pre
 
 ### polygon.py
 Sum the area and square of the perimeter of the regular polygon
+
+### prime_number_generator.py
+Using Python genrator yeild sequence of prime numbers
